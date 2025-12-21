@@ -1,0 +1,101 @@
+[
+  {
+    "id": "theme_abstract",
+    "title": "Abstract",
+    "dayUrl": "wallpapers/abstract_day.dat",
+    "nightUrl": "wallpapers/abstract_night.dat",
+    "thumbDayUrl": "wallpapers/abstract_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/abstract_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_canyon",
+    "title": "Canyon",
+    "dayUrl": "wallpapers/canyon_day.dat",
+    "nightUrl": "wallpapers/canyon_night.dat",
+    "thumbDayUrl": "wallpapers/canyon_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/canyon_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_fluid2",
+    "title": "Fluid2",
+    "dayUrl": "wallpapers/fluid2_day.dat",
+    "nightUrl": "wallpapers/fluid2_night.dat",
+    "thumbDayUrl": "wallpapers/fluid2_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/fluid2_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_fluid3",
+    "title": "Fluid3",
+    "dayUrl": "wallpapers/fluid3_day.dat",
+    "nightUrl": "wallpapers/fluid3_night.dat",
+    "thumbDayUrl": "wallpapers/fluid3_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/fluid3_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_fluid",
+    "title": "Fluid",
+    "dayUrl": "wallpapers/fluid_day.dat",
+    "nightUrl": "wallpapers/fluid_night.dat",
+    "thumbDayUrl": "wallpapers/fluid_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/fluid_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_geometry",
+    "title": "Geometry",
+    "dayUrl": "wallpapers/geometry_day.dat",
+    "nightUrl": "wallpapers/geometry_night.dat",
+    "thumbDayUrl": "wallpapers/geometry_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/geometry_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_liquid",
+    "title": "Liquid",
+    "dayUrl": "wallpapers/liquid_day.dat",
+    "nightUrl": "wallpapers/liquid_night.dat",
+    "thumbDayUrl": "wallpapers/liquid_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/liquid_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_mountain",
+    "title": "Mountain",
+    "dayUrl": "wallpapers/p_mountain_day.dat",
+    "nightUrl": "wallpapers/p_mountain_night.dat",
+    "thumbDayUrl": "wallpapers/p_mountain_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_mountain_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_vector",
+    "title": "Vector",
+    "dayUrl": "wallpapers/vector_day.dat",
+    "nightUrl": "wallpapers/vector_night.dat",
+    "thumbDayUrl": "wallpapers/vector_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/vector_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  }
+]
