@@ -6,7 +6,11 @@
 
   "campaign": {
     "isActive": true,
-    "text": "LANSMANA ÖZEL %50",
+    "text": {
+      "en": "LAUNCH SALE 50%",
+      "tr": "LANSMANA ÖZEL %50",
+      "de": "EINFÜHRUNGSPREIS -50%"
+    },
     "color": "#FFD700"
   }
 }
