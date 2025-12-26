@@ -1,5 +1,13 @@
 {
-  "latestVersion": "1.0.4.0",
+  "latestVersion": "v0.1 Beta (Build: 1.0.4.0)",
   "isCritical": false,
   "storeId": "9P98HTFJV4J6"
+
+
+  "campaign": {
+    "isActive": true,
+    "text": "LANSMANA ÖZEL %50",
+    "color": "#FFD700"
+  }
 }
+
