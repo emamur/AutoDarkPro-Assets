@@ -7,8 +7,8 @@
   "campaign": {
     "isActive": true,
     "text": {
-      "en": "LAUNCH SALE 55%",
-      "tr": "LANSMANA ÖZEL %55",
+      "en": "LAUNCH SALE 50%",
+      "tr": "LANSMANA ÖZEL %50 İNDİRİM",
       "de": "EINFÜHRUNGSPREIS -50%"
     },
     "color": "#FFD700"
