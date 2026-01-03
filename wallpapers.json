@@ -61,7 +61,7 @@
     "nightUrl": "wallpapers/geometry_night.dat",
     "thumbDayUrl": "wallpapers/geometry_day_thumb.webp",
     "thumbNightUrl": "wallpapers/geometry_night_thumb.webp",
-    "isPremium": false,
+    "isPremium": true,
     "isDeletable": false,
     "version": 1
   },
