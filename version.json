@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.8.0",
+  "latestVersion": "1.0.9.0",
   "isCritical": false,
   "storeId": "9P98HTFJV4J6",
 
@@ -8,7 +8,7 @@
     "isActive": true,
     "text": {
       "en": "LAUNCH SALE 50%",
-      "tr": "LANSMANA ÖZEL %50 İNDİRİM",
+      "tr": "LANSMANA ÖZEL %50 İNDİRİMLİ",
       "de": "EINFÜHRUNGSPREIS -50%"
     },
     "color": "#FFD700"
