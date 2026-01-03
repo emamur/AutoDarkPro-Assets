@@ -72,7 +72,7 @@
     "nightUrl": "wallpapers/liquid_night.dat",
     "thumbDayUrl": "wallpapers/liquid_day_thumb.webp",
     "thumbNightUrl": "wallpapers/liquid_night_thumb.webp",
-    "isPremium": false,
+    "isPremium": true,
     "isDeletable": false,
     "version": 1
   },
@@ -94,7 +94,7 @@
     "nightUrl": "wallpapers/vector_night.dat",
     "thumbDayUrl": "wallpapers/vector_day_thumb.webp",
     "thumbNightUrl": "wallpapers/vector_night_thumb.webp",
-    "isPremium": false,
+    "isPremium": true,
     "isDeletable": false,
     "version": 1
   }
