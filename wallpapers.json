@@ -97,5 +97,104 @@
     "isPremium": true,
     "isDeletable": false,
     "version": 1
+  },
+  {
+    "id": "theme_city",
+    "title": "City",
+    "dayUrl": "wallpapers/city_day.dat",
+    "nightUrl": "wallpapers/city_night.dat",
+    "thumbDayUrl": "wallpapers/city_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/city_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_cliff",
+    "title": "Cliff",
+    "dayUrl": "wallpapers/cliff_day.dat",
+    "nightUrl": "wallpapers/cliff_night.dat",
+    "thumbDayUrl": "wallpapers/cliff_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/cliff_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_desert",
+    "title": "Desert",
+    "dayUrl": "wallpapers/desert_day.dat",
+    "nightUrl": "wallpapers/desert_night.dat",
+    "thumbDayUrl": "wallpapers/desert_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/desert_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_forestpond",
+    "title": "Forestpond",
+    "dayUrl": "wallpapers/forestpond_day.dat",
+    "nightUrl": "wallpapers/forestpond_night.dat",
+    "thumbDayUrl": "wallpapers/forestpond_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/forestpond_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_lakehouse",
+    "title": "Lakehouse",
+    "dayUrl": "wallpapers/lakehouse_day.dat",
+    "nightUrl": "wallpapers/lakehouse_night.dat",
+    "thumbDayUrl": "wallpapers/lakehouse_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/lakehouse_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_mistyhills",
+    "title": "Mistyhills",
+    "dayUrl": "wallpapers/mistyhills_day.dat",
+    "nightUrl": "wallpapers/mistyhills_night.dat",
+    "thumbDayUrl": "wallpapers/mistyhills_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/mistyhills_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_moderncity",
+    "title": "Moderncity",
+    "dayUrl": "wallpapers/moderncity_day.dat",
+    "nightUrl": "wallpapers/moderncity_night.dat",
+    "thumbDayUrl": "wallpapers/moderncity_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/moderncity_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_mountain",
+    "title": "Mountain",
+    "dayUrl": "wallpapers/mountain_day.dat",
+    "nightUrl": "wallpapers/mountain_night.dat",
+    "thumbDayUrl": "wallpapers/mountain_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/mountain_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_view",
+    "title": "View",
+    "dayUrl": "wallpapers/view_day.dat",
+    "nightUrl": "wallpapers/view_night.dat",
+    "thumbDayUrl": "wallpapers/view_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/view_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
   }
 ]
