@@ -9,9 +9,9 @@
   {
     "country_code": "tr",
     "title": "Turkey",
-    "dayUrl": "headers/tr_day2.png",
-    "nightUrl": "headers/tr_night2.png",
-    "version": 3
+    "dayUrl": "headers/tr_day.png",
+    "nightUrl": "headers/tr_night.png",
+    "version": 4
   },
   {
     "country_code": "us",
