@@ -14,6 +14,13 @@
     "version": 4
   },
   {
+    "country_code": "br",
+    "title": "Brasil",
+    "dayUrl": "headers/br_day.png",
+    "nightUrl": "headers/br_night.png",
+    "version": 1
+  },
+  {
     "country_code": "us",
     "title": "United States",
     "dayUrl": "headers/us_day.png",
