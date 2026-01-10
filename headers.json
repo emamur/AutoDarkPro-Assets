@@ -1,0 +1,44 @@
+[
+  {
+    "country_code": "default",
+    "title": "Global Default",
+    "dayUrl": "headers/default_day.png",
+    "nightUrl": "headers/default_night.png",
+    "version": 1
+  },
+  {
+    "country_code": "tr",
+    "title": "Turkey",
+    "dayUrl": "headers/tr_day.png",
+    "nightUrl": "headers/tr_night.png",
+    "version": 2
+  },
+  {
+    "country_code": "us",
+    "title": "United States",
+    "dayUrl": "headers/us_day.png",
+    "nightUrl": "headers/us_night.png",
+    "version": 1
+  },
+  {
+    "country_code": "de",
+    "title": "Germany",
+    "dayUrl": "headers/de_day.png",
+    "nightUrl": "headers/de_night.png",
+    "version": 1
+  },
+  {
+    "country_code": "jp",
+    "title": "Japan",
+    "dayUrl": "headers/jp_day.png",
+    "nightUrl": "headers/jp_night.png",
+    "version": 3
+  },
+  {
+    "country_code": "fr",
+    "title": "France",
+    "dayUrl": "headers/fr_day.png",
+    "nightUrl": "headers/fr_night.png",
+    "version": 1
+  }
+]
