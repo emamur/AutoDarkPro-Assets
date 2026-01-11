@@ -38,7 +38,7 @@
             "id": "premium_wallpapers_new",
             "version": 1,
             "type": "Info",
-            "targetAudience": "PremiumOnly",
+            "targetAudience": "All",
             "priority": 90,
             "title": {
                 "en": "✨ New Premium Wallpapers",
