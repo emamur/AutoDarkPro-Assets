@@ -2,6 +2,7 @@
     "announcements": [
         {
             "id": "promo_launch_50",
+            "version": 1,
             "type": "Promo",
             "targetAudience": "FreeOnly",
             "priority": 100,
@@ -18,6 +19,7 @@
         },
         {
             "id": "update_info_v2",
+            "version": 2,
             "type": "Update",
             "targetAudience": "All",
             "priority": 80,
@@ -26,14 +28,15 @@
                 "tr": "🚀 Yeni Güncelleme Yayında"
             },
             "message": {
-                "en": "AutoDark Pro v2.1 includes performance improvements and new wallpapers. Enjoy!",
-                "tr": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri ve yeni duvar kağıtları eklendi. Keyfini çıkarın!"
+                "en": "AutoDark Pro v2.1 includes performance improvements. (v2)",
+                "tr": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri eklendi. (v2)"
             },
             "actionUrl": "https://github.com/emamur/AutoDarkPro/releases",
             "isDismissible": true
         },
         {
             "id": "premium_wallpapers_new",
+            "version": 1,
             "type": "Info",
             "targetAudience": "PremiumOnly",
             "priority": 90,
@@ -42,14 +45,15 @@
                 "tr": "✨ Yeni Premium Duvar Kağıtları"
             },
             "message": {
-                "en": "We added the exclusive 'Ocean Depth' collection. Check out wallpaper settings.",
-                "tr": "Sizler için özel 'Ocean Depth' koleksiyonunu ekledik. Duvar kağıdı ayarlarına göz atın."
+                "en": "We added the exclusive 'Ocean Depth' collection.",
+                "tr": "Sizler için özel 'Ocean Depth' koleksiyonunu ekledik."
             },
             "actionUrl": "",
             "isDismissible": true
         },
         {
             "id": "service_outage_warning",
+            "version": 1,
             "type": "Warning",
             "targetAudience": "All",
             "priority": 50,
@@ -58,11 +62,11 @@
                 "tr": "⚠️ Bakım Çalışması"
             },
             "message": {
-                "en": "Weather service will be under maintenance between 12:00-14:00. Thanks for your understanding.",
-                "tr": "Hava durumu servisi 12:00-14:00 saatleri arasında bakımda olacaktır. Anlayışınız için teşekkürler."
+                "en": "Weather service is under maintenance.",
+                "tr": "Hava durumu servisi bakımda."
             },
             "actionUrl": "",
-            "isDismissible": true
+            "isDismissible": false
         }
     ]
 }
