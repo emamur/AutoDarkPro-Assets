@@ -1,44 +1,68 @@
 {
-  "announcements": [
-    {
-      "id": "promo_launch_50",
-      "type": "Promo",
-      "targetAudience": "FreeOnly",
-      "priority": 100,
-      "title": "🎉 Premium'a Geçin, %50 İndirim Kazanın!",
-      "message": "Otomatik konum, sınırsız renk seçenekleri ve daha fazlası için şimdi yükseltin. Sınırlı süre için geçerli!",
-      "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
-      "isDismissible": true
-    },
-    {
-      "id": "update_info_v2",
-      "type": "Update",
-      "targetAudience": "All",
-      "priority": 80,
-      "title": "🚀 Yeni Güncelleme Yayında",
-      "message": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri ve yeni duvar kağıtları eklendi. Keyfini çıkarın!",
-      "actionUrl": "https://github.com/emamur/AutoDarkPro/releases",
-      "isDismissible": true
-    },
-    {
-      "id": "premium_wallpapers_new",
-      "type": "Info",
-      "targetAudience": "PremiumOnly",
-      "priority": 90,
-      "title": "✨ Yeni Premium Duvar Kağıtları",
-      "message": "Sizler için özel 'Ocean Depth' koleksiyonunu ekledik. Duvar kağıdı ayarlarına göz atın.",
-      "actionUrl": "",
-      "isDismissible": true
-    },
-    {
-      "id": "service_outage_warning",
-      "type": "Warning",
-      "targetAudience": "All",
-      "priority": 50,
-      "title": "⚠️ Bakım Çalışması",
-      "message": "Hava durumu servisi 12:00-14:00 saatleri arasında bakımda olacaktır. Anlayışınız için teşekkürler.",
-      "actionUrl": "",
-      "isDismissible": false
-    }
-  ]
+    "announcements": [
+        {
+            "id": "promo_launch_50",
+            "type": "Promo",
+            "targetAudience": "FreeOnly",
+            "priority": 100,
+            "title": {
+                "en": "🎉 Go Premium, Get 50% Off!",
+                "tr": "🎉 Premium'a Geçin, %50 İndirim Kazanın!"
+            },
+            "message": {
+                "en": "Unlock auto-location, unlimited colors, and more. Limited time offer!",
+                "tr": "Otomatik konum, sınırsız renk seçenekleri ve daha fazlası için şimdi yükseltin. Sınırlı süre için geçerli!"
+            },
+            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
+            "isDismissible": true
+        },
+        {
+            "id": "update_info_v2",
+            "type": "Update",
+            "targetAudience": "All",
+            "priority": 80,
+            "title": {
+                "en": "🚀 New Update Available",
+                "tr": "🚀 Yeni Güncelleme Yayında"
+            },
+            "message": {
+                "en": "AutoDark Pro v2.1 includes performance improvements and new wallpapers. Enjoy!",
+                "tr": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri ve yeni duvar kağıtları eklendi. Keyfini çıkarın!"
+            },
+            "actionUrl": "https://github.com/emamur/AutoDarkPro/releases",
+            "isDismissible": true
+        },
+        {
+            "id": "premium_wallpapers_new",
+            "type": "Info",
+            "targetAudience": "PremiumOnly",
+            "priority": 90,
+            "title": {
+                "en": "✨ New Premium Wallpapers",
+                "tr": "✨ Yeni Premium Duvar Kağıtları"
+            },
+            "message": {
+                "en": "We added the exclusive 'Ocean Depth' collection. Check out wallpaper settings.",
+                "tr": "Sizler için özel 'Ocean Depth' koleksiyonunu ekledik. Duvar kağıdı ayarlarına göz atın."
+            },
+            "actionUrl": "",
+            "isDismissible": true
+        },
+        {
+            "id": "service_outage_warning",
+            "type": "Warning",
+            "targetAudience": "All",
+            "priority": 50,
+            "title": {
+                "en": "⚠️ Maintenance work",
+                "tr": "⚠️ Bakım Çalışması"
+            },
+            "message": {
+                "en": "Weather service will be under maintenance between 12:00-14:00. Thanks for your understanding.",
+                "tr": "Hava durumu servisi 12:00-14:00 saatleri arasında bakımda olacaktır. Anlayışınız için teşekkürler."
+            },
+            "actionUrl": "",
+            "isDismissible": false
+        }
+    ]
 }
