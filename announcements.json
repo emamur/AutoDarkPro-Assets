@@ -62,7 +62,7 @@
                 "tr": "Hava durumu servisi 12:00-14:00 saatleri arasında bakımda olacaktır. Anlayışınız için teşekkürler."
             },
             "actionUrl": "",
-            "isDismissible": false
+            "isDismissible": true
         }
     ]
 }
