@@ -31,12 +31,12 @@
                 "en": "AutoDark Pro v2.1 includes performance improvements. (v2)",
                 "tr": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri eklendi. (v2)"
             },
-            "actionUrl": "https://github.com/emamur/AutoDarkPro/releases",
+            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
             "isDismissible": true
         },
         {
             "id": "premium_wallpapers_new",
-            "version": 1,
+            "version": 2,
             "type": "Info",
             "targetAudience": "All",
             "priority": 90,
