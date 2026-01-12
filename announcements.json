@@ -16,57 +16,6 @@
             },
             "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
             "isDismissible": true
-        },
-        {
-            "id": "update_info_v2",
-            "version": 2,
-            "type": "Update",
-            "targetAudience": "All",
-            "priority": 80,
-            "title": {
-                "en": "🚀 New Update Available",
-                "tr": "🚀 Yeni Güncelleme Yayında"
-            },
-            "message": {
-                "en": "AutoDark Pro v2.1 includes performance improvements. (v2)",
-                "tr": "AutoDark Pro v2.1 sürümüyle performans iyileştirmeleri eklendi. (v2)"
-            },
-            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
-            "isDismissible": true
-        },
-        {
-            "id": "premium_wallpapers_new",
-            "version": 2,
-            "type": "Info",
-            "targetAudience": "All",
-            "priority": 90,
-            "title": {
-                "en": "✨ New Premium Wallpapers",
-                "tr": "✨ Yeni Premium Duvar Kağıtları"
-            },
-            "message": {
-                "en": "We added the exclusive 'Ocean Depth' collection.",
-                "tr": "Sizler için özel 'Ocean Depth' koleksiyonunu ekledik."
-            },
-            "actionUrl": "",
-            "isDismissible": true
-        },
-        {
-            "id": "service_outage_warning",
-            "version": 1,
-            "type": "Warning",
-            "targetAudience": "All",
-            "priority": 50,
-            "title": {
-                "en": "⚠️ Maintenance work",
-                "tr": "⚠️ Bakım Çalışması"
-            },
-            "message": {
-                "en": "Weather service is under maintenance.",
-                "tr": "Hava durumu servisi bakımda."
-            },
-            "actionUrl": "",
-            "isDismissible": true
         }
     ]
 }

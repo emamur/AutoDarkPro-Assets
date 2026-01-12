@@ -1,51 +1,302 @@
 [
-  {
-    "country_code": "default",
-    "title": "Global Default",
-    "dayUrl": "headers/default_day.png",
-    "nightUrl": "headers/default_night.png",
-    "version": 2
-  },
-  {
-    "country_code": "tr",
-    "title": "Turkey",
-    "dayUrl": "headers/tr_day.png",
-    "nightUrl": "headers/tr_night.png",
-    "version": 4
-  },
-  {
-    "country_code": "br",
-    "title": "Brazil",
-    "dayUrl": "headers/br_day.png",
-    "nightUrl": "headers/br_night.png",
-    "version": 1
-  },
-  {
-    "country_code": "us",
-    "title": "United States",
-    "dayUrl": "headers/us_day.png",
-    "nightUrl": "headers/us_night.png",
-    "version": 1
-  },
-  {
-    "country_code": "de",
-    "title": "Germany",
-    "dayUrl": "headers/de_day.png",
-    "nightUrl": "headers/de_night.png",
-    "version": 1
-  },
-  {
-    "country_code": "jp",
-    "title": "Japan",
-    "dayUrl": "headers/jp_day.png",
-    "nightUrl": "headers/jp_night.png",
-    "version": 3
-  },
-  {
-    "country_code": "fr",
-    "title": "France",
-    "dayUrl": "headers/fr_day.png",
-    "nightUrl": "headers/fr_night.png",
-    "version": 1
-  }
+    {
+        "country_code": "ad",
+        "dayUrl": "ad_day.png",
+        "nightUrl": "ad_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "al",
+        "dayUrl": "al_day.png",
+        "nightUrl": "al_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "at",
+        "dayUrl": "at_day.png",
+        "nightUrl": "at_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ba",
+        "dayUrl": "ba_day.png",
+        "nightUrl": "ba_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "be",
+        "dayUrl": "be_day.png",
+        "nightUrl": "be_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "bg",
+        "dayUrl": "bg_day.png",
+        "nightUrl": "bg_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "by",
+        "dayUrl": "by_day.png",
+        "nightUrl": "by_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ca",
+        "dayUrl": "ca_day.png",
+        "nightUrl": "ca_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ch",
+        "dayUrl": "ch_day.png",
+        "nightUrl": "ch_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "cn",
+        "dayUrl": "cn_day.png",
+        "nightUrl": "cn_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "cz",
+        "dayUrl": "cz_day.png",
+        "nightUrl": "cz_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "de",
+        "dayUrl": "de_day.png",
+        "nightUrl": "de_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "default",
+        "dayUrl": "default_day.png",
+        "nightUrl": "default_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "dk",
+        "dayUrl": "dk_day.png",
+        "nightUrl": "dk_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ee",
+        "dayUrl": "ee_day.png",
+        "nightUrl": "ee_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "es",
+        "dayUrl": "es_day.png",
+        "nightUrl": "es_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "fi",
+        "dayUrl": "fi_day.png",
+        "nightUrl": "fi_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "fr",
+        "dayUrl": "fr_day.png",
+        "nightUrl": "fr_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "gb",
+        "dayUrl": "gb_day.png",
+        "nightUrl": "gb_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "gr",
+        "dayUrl": "gr_day.png",
+        "nightUrl": "gr_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "hr",
+        "dayUrl": "hr_day.png",
+        "nightUrl": "hr_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "hu",
+        "dayUrl": "hu_day.png",
+        "nightUrl": "hu_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ie",
+        "dayUrl": "ie_day.png",
+        "nightUrl": "ie_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "in",
+        "dayUrl": "in_day.png",
+        "nightUrl": "in_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "is",
+        "dayUrl": "is_day.png",
+        "nightUrl": "is_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "it",
+        "dayUrl": "it_day.png",
+        "nightUrl": "it_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "jp",
+        "dayUrl": "jp_day.png",
+        "nightUrl": "jp_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "li",
+        "dayUrl": "li_day.png",
+        "nightUrl": "li_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "lt",
+        "dayUrl": "lt_day.png",
+        "nightUrl": "lt_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "lu",
+        "dayUrl": "lu_day.png",
+        "nightUrl": "lu_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "lv",
+        "dayUrl": "lv_day.png",
+        "nightUrl": "lv_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "mc",
+        "dayUrl": "mc_day.png",
+        "nightUrl": "mc_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "md",
+        "dayUrl": "md_day.png",
+        "nightUrl": "md_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "me",
+        "dayUrl": "me_day.png",
+        "nightUrl": "me_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "mk",
+        "dayUrl": "mk_day.png",
+        "nightUrl": "mk_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "mt",
+        "dayUrl": "mt_day.png",
+        "nightUrl": "mt_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "nl",
+        "dayUrl": "nl_day.png",
+        "nightUrl": "nl_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "no",
+        "dayUrl": "no_day.png",
+        "nightUrl": "no_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "pl",
+        "dayUrl": "pl_day.png",
+        "nightUrl": "pl_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "pt",
+        "dayUrl": "pt_day.png",
+        "nightUrl": "pt_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ro",
+        "dayUrl": "ro_day.png",
+        "nightUrl": "ro_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "rs",
+        "dayUrl": "rs_day.png",
+        "nightUrl": "rs_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ru",
+        "dayUrl": "ru_day.png",
+        "nightUrl": "ru_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "si",
+        "dayUrl": "si_day.png",
+        "nightUrl": "si_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "sk",
+        "dayUrl": "sk_day.png",
+        "nightUrl": "sk_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "sm",
+        "dayUrl": "sm_day.png",
+        "nightUrl": "sm_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "th",
+        "dayUrl": "th_day.png",
+        "nightUrl": "th_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "tr",
+        "dayUrl": "tr_day.png",
+        "nightUrl": "tr_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "ua",
+        "dayUrl": "ua_day.png",
+        "nightUrl": "ua_night.png",
+        "version": 5
+    },
+    {
+        "country_code": "us",
+        "dayUrl": "us_day.png",
+        "nightUrl": "us_night.png",
+        "version": 5
+    }
 ]
