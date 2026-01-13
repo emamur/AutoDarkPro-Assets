@@ -2,8 +2,8 @@
     "announcements": [
         {
             "id": "promo_launch_50",
-            "version": 1,
-            "type": "Promo",
+            "version": 2,
+            "type": "Info",
             "targetAudience": "FreeOnly",
             "priority": 100,
             "title": {
