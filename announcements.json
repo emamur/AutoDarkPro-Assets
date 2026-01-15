@@ -16,6 +16,23 @@
             },
             "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
             "isDismissible": true
+        },
+                {
+            "id": "wallpaper",
+            "version": 2,
+            "type": "Info",
+            "targetAudience": "All",
+            "priority": 100,
+            "title": {
+                "en": "🎉 New wallpapers added!!!",
+                "tr": "🎉 PYeni duvar kağıtları eklendi!!!"
+            },
+            "message": {
+                "en": "New wallpapers added to the collection. Check them out now!",
+                "tr": "Yeni duvar kağıtları eklendi. Şimdi inceleyin!"
+            },
+            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
+            "isDismissible": true
         }
     ]
 }
