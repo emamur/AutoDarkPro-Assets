@@ -262,5 +262,93 @@
     "isPremium": false,
     "isDeletable": false,
     "version": 1
+  },
+  {
+    "id": "theme_bird2",
+    "title": "Bird2",
+    "dayUrl": "wallpapers/bird2_day.dat",
+    "nightUrl": "wallpapers/bird2_night.dat",
+    "thumbDayUrl": "wallpapers/bird2_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/bird2_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_bird",
+    "title": "Bird",
+    "dayUrl": "wallpapers/bird_day.dat",
+    "nightUrl": "wallpapers/bird_night.dat",
+    "thumbDayUrl": "wallpapers/bird_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/bird_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_canvas",
+    "title": "Canvas",
+    "dayUrl": "wallpapers/canvas_day.dat",
+    "nightUrl": "wallpapers/canvas_night.dat",
+    "thumbDayUrl": "wallpapers/canvas_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/canvas_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_car",
+    "title": "Car",
+    "dayUrl": "wallpapers/car_day.dat",
+    "nightUrl": "wallpapers/car_night.dat",
+    "thumbDayUrl": "wallpapers/car_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/car_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_mushroom",
+    "title": "Mushroom",
+    "dayUrl": "wallpapers/mushroom_day.dat",
+    "nightUrl": "wallpapers/mushroom_night.dat",
+    "thumbDayUrl": "wallpapers/mushroom_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/mushroom_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_plant",
+    "title": "Plant",
+    "dayUrl": "wallpapers/plant_day.dat",
+    "nightUrl": "wallpapers/plant_night.dat",
+    "thumbDayUrl": "wallpapers/plant_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/plant_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_mushroom2",
+    "title": "Mushroom2",
+    "dayUrl": "wallpapers/p_mushroom2_day.dat",
+    "nightUrl": "wallpapers/p_mushroom2_night.dat",
+    "thumbDayUrl": "wallpapers/p_mushroom2_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_mushroom2_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_plant2",
+    "title": "Plant2",
+    "dayUrl": "wallpapers/p_plant2_day.dat",
+    "nightUrl": "wallpapers/p_plant2_night.dat",
+    "thumbDayUrl": "wallpapers/p_plant2_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_plant2_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
   }
 ]
