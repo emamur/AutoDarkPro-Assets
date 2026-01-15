@@ -196,5 +196,71 @@
     "isPremium": true,
     "isDeletable": false,
     "version": 1
+  },
+  {
+    "id": "theme_futuristic",
+    "title": "Futuristic",
+    "dayUrl": "wallpapers/futuristic_day.dat",
+    "nightUrl": "wallpapers/futuristic_night.dat",
+    "thumbDayUrl": "wallpapers/futuristic_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/futuristic_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_abstract2",
+    "title": "Abstract2",
+    "dayUrl": "wallpapers/p_abstract2_day.dat",
+    "nightUrl": "wallpapers/p_abstract2_night.dat",
+    "thumbDayUrl": "wallpapers/p_abstract2_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_abstract2_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_modern",
+    "title": "Modern",
+    "dayUrl": "wallpapers/p_modern_day.dat",
+    "nightUrl": "wallpapers/p_modern_night.dat",
+    "thumbDayUrl": "wallpapers/p_modern_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_modern_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_nature",
+    "title": "Nature",
+    "dayUrl": "wallpapers/p_nature_day.dat",
+    "nightUrl": "wallpapers/p_nature_night.dat",
+    "thumbDayUrl": "wallpapers/p_nature_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_nature_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_space",
+    "title": "Space",
+    "dayUrl": "wallpapers/space_day.dat",
+    "nightUrl": "wallpapers/space_night.dat",
+    "thumbDayUrl": "wallpapers/space_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/space_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_wolf",
+    "title": "Wolf",
+    "dayUrl": "wallpapers/wolf_day.dat",
+    "nightUrl": "wallpapers/wolf_night.dat",
+    "thumbDayUrl": "wallpapers/wolf_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/wolf_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
   }
 ]
