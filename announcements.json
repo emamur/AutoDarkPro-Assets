@@ -35,8 +35,8 @@
             "isDismissible": true
         },
                 {
-            "id": "Test",
-            "version": 1,
+            "id": "Test2",
+            "version": 2,
             "type": "Info",
             "targetAudience": "All",
             "priority": 100,
