@@ -33,6 +33,23 @@
             },
             "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
             "isDismissible": true
+        },
+                {
+            "id": "Test",
+            "version": 1,
+            "type": "Info",
+            "targetAudience": "All",
+            "priority": 100,
+            "title": {
+                "en": "🎉 Notification test",
+                "tr": "🎉 Notification testi"
+            },
+            "message": {
+                "en": "Notification test",
+                "tr": "Notification test!"
+            },
+            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
+            "isDismissible": true
         }
     ]
 }
