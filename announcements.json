@@ -24,8 +24,8 @@
             "targetAudience": "All",
             "priority": 100,
             "title": {
-                "en": "🎉 New wallpapers added!!!",
-                "tr": "🎉 PYeni duvar kağıtları eklendi!!!"
+                "en": "🎉 New wallpapers added!!! ",
+                "tr": "🎉 Yeni duvar kağıtları eklendi!!!"
             },
             "message": {
                 "en": "New wallpapers added to the collection. Check them out now!",
@@ -35,7 +35,7 @@
             "isDismissible": true
         },
                 {
-            "id": "Test3",
+            "id": "Test4",
             "version": 3,
             "type": "Info",
             "targetAudience": "All",
