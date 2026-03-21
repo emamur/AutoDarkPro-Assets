@@ -285,7 +285,7 @@
         "country_code": "tr",
         "dayUrl": "headers/tr_day.png",
         "nightUrl": "headers/tr_night.png",
-        "version": 1
+        "version": 2
     },
     {
         "country_code": "ua",
