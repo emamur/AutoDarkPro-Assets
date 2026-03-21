@@ -1,31 +1,14 @@
 {
     "announcements": [
         {
-            "id": "promo_launch_50",
-            "version": 2,
-            "type": "Info",
-            "targetAudience": "FreeOnly",
-            "priority": 100,
-            "title": {
-                "en": "🎉 Go Premium, Get 50% Off!",
-                "tr": "🎉 Premium'a Geçin, %50 İndirim Kazanın!"
-            },
-            "message": {
-                "en": "Unlock auto-location, unlimited colors, and more. Limited time offer!",
-                "tr": "Otomatik konum, sınırsız renk seçenekleri ve daha fazlası için şimdi yükseltin. Sınırlı süre için geçerli!"
-            },
-            "actionUrl": "ms-windows-store://pdp/?productid=9P98HTFJV4J6",
-            "isDismissible": true
-        },
-                {
             "id": "wallpaper",
             "version": 2,
-            "type": "Info",
+            "type": "Promo",
             "targetAudience": "All",
             "priority": 100,
             "title": {
-                "en": "🎉 New wallpapers added!!! ",
-                "tr": "🎉 Yeni duvar kağıtları eklendi!!!"
+                "en": "🎉 New March wallpapers added!!! ",
+                "tr": "🎉 Yeni Mart ayı duvar kağıtları eklendi!!!"
             },
             "message": {
                 "en": "New wallpapers added to the collection. Check them out now!",

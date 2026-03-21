@@ -350,5 +350,126 @@
     "isPremium": true,
     "isDeletable": false,
     "version": 1
+  },
+  {
+    "id": "theme_alpine_lake",
+    "title": "Alpine Lake",
+    "dayUrl": "wallpapers/alpine_lake_day.dat",
+    "nightUrl": "wallpapers/alpine_lake_night.dat",
+    "thumbDayUrl": "wallpapers/alpine_lake_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/alpine_lake_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_dew_covered_moss",
+    "title": "Dew Covered Moss",
+    "dayUrl": "wallpapers/dew_covered_moss_day.dat",
+    "nightUrl": "wallpapers/dew_covered_moss_night.dat",
+    "thumbDayUrl": "wallpapers/dew_covered_moss_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/dew_covered_moss_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_energy_flow",
+    "title": "Energy Flow",
+    "dayUrl": "wallpapers/energy_flow_day.dat",
+    "nightUrl": "wallpapers/energy_flow_night.dat",
+    "thumbDayUrl": "wallpapers/energy_flow_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/energy_flow_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_flooded_deadwood",
+    "title": "Flooded Deadwood",
+    "dayUrl": "wallpapers/flooded_deadwood_day.dat",
+    "nightUrl": "wallpapers/flooded_deadwood_night.dat",
+    "thumbDayUrl": "wallpapers/flooded_deadwood_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/flooded_deadwood_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_Hidden_Gaze",
+    "title": "Hidden Gaze",
+    "dayUrl": "wallpapers/Hidden_Gaze_day.dat",
+    "nightUrl": "wallpapers/Hidden_Gaze_night.dat",
+    "thumbDayUrl": "wallpapers/Hidden_Gaze_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/Hidden_Gaze_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_leopard",
+    "title": "Leopard",
+    "dayUrl": "wallpapers/leopard_day.dat",
+    "nightUrl": "wallpapers/leopard_night.dat",
+    "thumbDayUrl": "wallpapers/leopard_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/leopard_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_misty_forest_lake",
+    "title": "Misty Forest Lake",
+    "dayUrl": "wallpapers/misty_forest_lake_day.dat",
+    "nightUrl": "wallpapers/misty_forest_lake_night.dat",
+    "thumbDayUrl": "wallpapers/misty_forest_lake_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/misty_forest_lake_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_serene_lakeside",
+    "title": "Serene Lakeside",
+    "dayUrl": "wallpapers/serene_lakeside_day.dat",
+    "nightUrl": "wallpapers/serene_lakeside_night.dat",
+    "thumbDayUrl": "wallpapers/serene_lakeside_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/serene_lakeside_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_Stillwater_Ember",
+    "title": "Stillwater Ember",
+    "dayUrl": "wallpapers/Stillwater_Ember_day.dat",
+    "nightUrl": "wallpapers/Stillwater_Ember_night.dat",
+    "thumbDayUrl": "wallpapers/Stillwater_Ember_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/Stillwater_Ember_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_Veil_of_Lórien",
+    "title": "Veil Of Lórien",
+    "dayUrl": "wallpapers/Veil_of_Lórien_day.dat",
+    "nightUrl": "wallpapers/Veil_of_Lórien_night.dat",
+    "thumbDayUrl": "wallpapers/Veil_of_Lórien_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/Veil_of_Lórien_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_wolf_silhouette",
+    "title": "Wolf Silhouette",
+    "dayUrl": "wallpapers/wolf_silhouette_day.dat",
+    "nightUrl": "wallpapers/wolf_silhouette_night.dat",
+    "thumbDayUrl": "wallpapers/wolf_silhouette_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/wolf_silhouette_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
   }
 ]
