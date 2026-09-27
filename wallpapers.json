@@ -471,5 +471,126 @@
     "isPremium": true,
     "isDeletable": false,
     "version": 1
+  },
+  {
+    "id": "theme_ancient_forest",
+    "title": "Ancient Forest",
+    "dayUrl": "wallpapers/ancient_forest_day.dat",
+    "nightUrl": "wallpapers/ancient_forest_night.dat",
+    "thumbDayUrl": "wallpapers/ancient_forest_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/ancient_forest_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_dark_forest",
+    "title": "Dark Forest",
+    "dayUrl": "wallpapers/dark_forest_day.dat",
+    "nightUrl": "wallpapers/dark_forest_night.dat",
+    "thumbDayUrl": "wallpapers/dark_forest_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/dark_forest_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_glacial",
+    "title": "Glacial",
+    "dayUrl": "wallpapers/glacial_day.dat",
+    "nightUrl": "wallpapers/glacial_night.dat",
+    "thumbDayUrl": "wallpapers/glacial_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/glacial_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_nordic_fjord",
+    "title": "Nordic Fjord",
+    "dayUrl": "wallpapers/nordic_fjord_day.dat",
+    "nightUrl": "wallpapers/nordic_fjord_night.dat",
+    "thumbDayUrl": "wallpapers/nordic_fjord_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/nordic_fjord_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_olive_grove",
+    "title": "Olive Grove",
+    "dayUrl": "wallpapers/olive_grove_day.dat",
+    "nightUrl": "wallpapers/olive_grove_night.dat",
+    "thumbDayUrl": "wallpapers/olive_grove_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/olive_grove_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_desert_dune",
+    "title": "Desert Dune",
+    "dayUrl": "wallpapers/p_desert_dune_day.dat",
+    "nightUrl": "wallpapers/p_desert_dune_night.dat",
+    "thumbDayUrl": "wallpapers/p_desert_dune_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_desert_dune_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_golden_steppe",
+    "title": "Golden Steppe",
+    "dayUrl": "wallpapers/p_golden_steppe_day.dat",
+    "nightUrl": "wallpapers/p_golden_steppe_night.dat",
+    "thumbDayUrl": "wallpapers/p_golden_steppe_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_golden_steppe_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_lagoon",
+    "title": "Lagoon",
+    "dayUrl": "wallpapers/p_lagoon_day.dat",
+    "nightUrl": "wallpapers/p_lagoon_night.dat",
+    "thumbDayUrl": "wallpapers/p_lagoon_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_lagoon_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_p_rice_terrace",
+    "title": "Rice Terrace",
+    "dayUrl": "wallpapers/p_rice_terrace_day.dat",
+    "nightUrl": "wallpapers/p_rice_terrace_night.dat",
+    "thumbDayUrl": "wallpapers/p_rice_terrace_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/p_rice_terrace_night_thumb.webp",
+    "isPremium": true,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_secluded_lake",
+    "title": "Secluded Lake",
+    "dayUrl": "wallpapers/secluded_lake_day.dat",
+    "nightUrl": "wallpapers/secluded_lake_night.dat",
+    "thumbDayUrl": "wallpapers/secluded_lake_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/secluded_lake_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
+  },
+  {
+    "id": "theme_vast_volcano",
+    "title": "Vast Volcano",
+    "dayUrl": "wallpapers/vast_volcano_day.dat",
+    "nightUrl": "wallpapers/vast_volcano_night.dat",
+    "thumbDayUrl": "wallpapers/vast_volcano_day_thumb.webp",
+    "thumbNightUrl": "wallpapers/vast_volcano_night_thumb.webp",
+    "isPremium": false,
+    "isDeletable": false,
+    "version": 1
   }
 ]
