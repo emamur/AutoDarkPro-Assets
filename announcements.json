@@ -2,13 +2,13 @@
     "announcements": [
         {
             "id": "wallpaper",
-            "version": 2,
+            "version": 3,
             "type": "Promo",
             "targetAudience": "All",
             "priority": 100,
             "title": {
-                "en": "🎉 New March wallpapers added!!! ",
-                "tr": "🎉 Yeni Mart ayı duvar kağıtları eklendi!!!"
+                "en": "🎉 New September wallpapers added!!! ",
+                "tr": "🎉 Yeni Eylül ayı duvar kağıtları eklendi!!!"
             },
             "message": {
                 "en": "New wallpapers added to the collection. Check them out now!",
